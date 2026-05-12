@@ -1,7 +1,7 @@
 'use client'
 
 import { motion } from 'framer-motion'
-import { Mail, Phone, Instagram, Linkedin, ExternalLink } from 'lucide-react'
+import { Mail, Phone, Instagram, ExternalLink } from 'lucide-react'
 
 const Contact = () => {
   const contactMethods = [
